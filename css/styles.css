@@ -6,17 +6,29 @@ body {
 
 img: {
 	margin: 0;
+	width: 200px;
+	height: auto;
 }
 
 h1 {
 	color: white;
-	background-color: #727171;
+	background-color: #333;
 	margin: 0;
 	padding:48px 0;
 	text-align: center;
+	font-size: 28px;
+	font-weight: 700;
 }
+
+h2 {
+	margin: 12px 0;
+	font-size: 28px;
+	font-weight: 700;
+}
+
+
 .container	{
-	padding: 0 54px;
+	padding: 54px;
 }
 
 .studentInfo {
